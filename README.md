@@ -72,7 +72,7 @@ Identify top performers
 Make data-driven sports insights
 
 # dashboard preview
-
+ipl data preview.png
 
 # Author
 Vishwaj Kummari
